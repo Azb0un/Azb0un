@@ -36,3 +36,15 @@
   &nbsp;&nbsp;→&nbsp;&nbsp;
   🎯 Junior Developer
 </p>
+
+<h2 align="center">🎯 Currently Working On</h2>
+
+<p align="center">
+  💻 Strengthening my JavaScript skills
+  <br>
+  🌐 Building responsive and user-friendly websites
+  <br>
+  🧠 Improving my problem-solving skills
+  <br>
+  🚀 Working on projects to build my developer portfolio
+</p>
