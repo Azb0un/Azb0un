@@ -14,3 +14,13 @@
 <p align="center">
   HTML • CSS • JavaScript • Python
 </p>
+
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+  I'm currently studying Full-Stack Development at Axsos Academy,
+  building my skills in web development and programming.
+  <br><br>
+  I enjoy turning ideas into responsive and user-friendly web applications
+  and continuously challenging myself to become a better developer.
+</p>
