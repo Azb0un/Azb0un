@@ -24,3 +24,15 @@
   I enjoy turning ideas into responsive and user-friendly web applications
   and continuously challenging myself to become a better developer.
 </p>
+
+<h2 align="center">🚀 My Developer Journey</h2>
+
+<p align="center">
+  🧬 Biology
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  🌐 Web Fundamentals
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  💻 Full-Stack Development
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  🎯 Junior Developer
+</p>
